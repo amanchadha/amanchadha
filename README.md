@@ -1,8 +1,11 @@
 ### About
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition. 
+
 💬 I am interested in mentoring and coaching people in the field of AI.
+
 🚀 My personal mission is to build AI-based solutions that solve a real problem for people around the world.
+
 👯 If you have an idea in my fields of interest and are interested in collaborating, feel free to get in touch! 
 
 #### Bio
