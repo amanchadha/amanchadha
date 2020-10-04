@@ -17,8 +17,8 @@
 
 #### Personal Profile
 
-🌎 My personal profile is at [amanchadha.com](https://www.amanchadha.com).
+🌎 [amanchadha.com](https://www.amanchadha.com).
 
 #### AI Portfolio
 
-💼 My AI portfolio is at [aman.ai](https://www.aman.ai), which contains course notes and learning material for Artificial Intelligence and Deep Learning Stanford classes.
+💼 [aman.ai](https://www.aman.ai), which contains course notes and learning material for Artificial Intelligence and Deep Learning Stanford classes.
