@@ -5,7 +5,7 @@
 
 💬 My personal mission is to build AI-based solutions that solve a real problem for people around the world.
 
-👯 I am interested in mentoring, coaching and collaborating with people in the field of AI. If you have an idea related to my fields of interest and are interested in getting my thoughts or collaborating, feel free to get in touch! 
+👯 I am interested in mentoring, coaching and collaborating with people in the field of AI. If you have an idea related to my areas of interest and are interested in getting my thoughts or collaborating, feel free to shoot me an email! 
 
 ### Bio
 
