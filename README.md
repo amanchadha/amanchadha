@@ -9,7 +9,7 @@
 
 ### Bio
 
-👨🏻‍💻 I am a lead engineer on the Mac Systems Performance and Architecture team at [Apple](https://www.apple.com/), where I specialize in architecting the performance of future Mac offerings, developing models for estimating performance of Mac sytems years in advance, and driving performance debugs in the HW/SW stack to narrow down and fix bottlenecks. 
+👨🏻‍💻 I am a Lead Engineer on the Mac Systems Performance and Architecture team at [Apple](https://www.apple.com/), where I specialize in architecting the performance of future Mac offerings, developing models for estimating performance of Mac sytems years in advance, and driving performance debugs in the HW/SW stack to narrow down and fix bottlenecks. 
 
 🌱 I am currently pursuing my graduate studies in [Computer Science](https://cs.stanford.edu/) with a specialization in [Artificial Intelligence](http://ai.stanford.edu/) from [Stanford University](https://www.stanford.edu/). 
 
