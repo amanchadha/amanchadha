@@ -17,7 +17,7 @@
 
 ### Personal Profile
 
-🌎 [amanchadha.com](https://www.amanchadha.com)
+🌎 [aman.info](https://www.aman.info)
 
 ### AI Portfolio
 
