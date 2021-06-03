@@ -9,7 +9,7 @@
 
 ### Bio
 
-👨🏻‍💻 I'm on the [Machine Intelligence and Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. Previously, I worked on architecting the performance of Apple's Mac lineup, developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks.
+👨🏻‍💻 I'm on the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. Previously, I worked on architecting the performance of Apple's Mac lineup, developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks.
 
 🌱 I'm currently pursuing my graduate studies part-time in [Computer Science](https://cs.stanford.edu/) with a specialization in [Artificial Intelligence](http://ai.stanford.edu/) from [Stanford University](https://www.stanford.edu/). 
 
