@@ -35,7 +35,7 @@
   <img align="left" alt="Aman Chadha's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
 </a>
 
-## GitHub Stats
+### GitHub Stats
 
 <a href="https://github.com/amanchadha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchadha&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
