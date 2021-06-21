@@ -23,6 +23,18 @@
 
 💼 [aman.ai](https://www.aman.ai), which contains course notes and learning material for Artificial Intelligence and Deep Learning Stanford classes.
 
+### Connect
+
+<a href="https://www.linkedin.com/in/borghimatias/">
+  <img align="left" alt="Aman Chadha's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+</a>
+<a href="https://citations.amanchadha.com/">
+  <img align="left" alt="Aman Chadha's Google Scholar" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
+</a>
+<a href="https://twitter.amanchadha.com/">
+  <img align="left" alt="Aman Chadha's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
+</a>
+
 ## GitHub Stats
 
 <a href="https://github.com/amanchadha/github-readme-stats">
