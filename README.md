@@ -38,7 +38,7 @@
 
 ### GitHub Stats
 
-<table style="width:100%" border=0>
+<table class="center" style="width:100%; border: 0px">
   <tr>
     <td align="center"><a href="https://github.com/amanchadha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchadha&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
