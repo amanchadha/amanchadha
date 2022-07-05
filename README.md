@@ -24,7 +24,7 @@
 
 ### Connect
 
-👉🏼 Feel free to connect with me on LinkedIn to stay updated with my latest AI content.
+👉🏼 **Feel free to connect with me on LinkedIn to stay updated with my latest AI content.**
 
 <a href="https://linkedin.amanchadha.com/">
   <img align="left" alt="Aman Chadha's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
