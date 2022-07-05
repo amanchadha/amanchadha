@@ -10,7 +10,9 @@
 
 ### Bio
 
-👨🏻‍💻 I lead a team of scientists at [Amazon Alexa AI](https://amazon.science) to find innovative ways to advance the field of Speaker Understanding, Recognition and Personalization. Previously, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. Prior to that, I worked on architecting the performance of Apple's Mac lineup, developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks.
+👨🏻‍💻 I lead a team of scientists at [Amazon Alexa AI](https://amazon.science) to find innovative ways to advance the field of Speaker Understanding, Recognition and Personalization. 
+
+👉🏼 Previously, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialized in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. Prior to that, I worked on architecting the performance of Apple's Mac lineup, developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks. I spent a couple of years at Nvidia and Qualcomm working on GPUs and ML Accelerators before Apple.
 
 🌱 I'm currently pursuing my graduate studies part-time in [Computer Science](https://cs.stanford.edu/) with a specialization in [Artificial Intelligence](http://ai.stanford.edu/) from [Stanford University](https://www.stanford.edu/). 
 
