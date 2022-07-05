@@ -10,7 +10,7 @@
 
 ### Bio
 
-👨🧠 I lead a team of scientists at [Amazon Alexa AI](https://amazon.science) to find innovative ways to advance the field of Speaker Recognition and Personalization. 
+🧠 I lead a team of AI scientists at [Amazon Alexa](https://amazon.science) to find innovative ways to advance the field of Speaker Recognition and Personalization. 
 
 ⌛️ Previously, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialized in designing AI models for a wide range of applications including Natural Language Processing, Speech Recognition, and Computer Vision. Prior to that, I was one of the early architects of [Apple's M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/), which involved developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks. Before Apple, I spent a couple of years at [Nvidia](https://www.nvidia.com) and [Qualcomm](https://www.qualcomm.com) working on GPUs and ML Accelerators.
 
