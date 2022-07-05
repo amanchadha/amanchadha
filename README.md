@@ -6,6 +6,8 @@
 
 👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](mailto:hi@aman.ai)! 
 
+👉🏼 **Feel free to connect with me on [LinkedIn](http://linkedin.aman.ai) to stay updated with my latest AI content.**
+
 ### Bio
 
 👨🏻‍💻 I'm part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. Previously, I worked on architecting the performance of Apple's Mac lineup, developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks.
@@ -23,8 +25,6 @@
 💼 [aman.ai](https://www.aman.ai), which contains course notes and learning material for Artificial Intelligence and Deep Learning Stanford classes.
 
 ### Connect
-
-👉🏼 **Feel free to connect with me on LinkedIn to stay updated with my latest AI content.**
 
 <a href="https://linkedin.amanchadha.com/">
   <img align="left" alt="Aman Chadha's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
