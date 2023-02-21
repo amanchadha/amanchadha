@@ -18,6 +18,8 @@
 
 🎓 I received my Masters in [Electrical and Computer Engineering](http://www.ece.wisc.edu/) with a specialization in [Computer Architecture](http://rsrch.cs.wisc.edu/arch/uwarch/?q=node/69) from the [University of Wisconsin-Madison](https://www.wisc.edu/) and graduated in 2014 with an outstanding graduate student award.
 
+📚 I am a distinguished alumnus of the [University of Mumbai](https://www.mu.ac.in/), one of the largest universities in the world.
+
 ### Personal Profile
 
 🌎 [aman.info](https://www.aman.info)
