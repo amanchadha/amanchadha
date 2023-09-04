@@ -10,15 +10,17 @@
 
 ### Bio
 
-🧠 I manage a team of AI scientists at [Amazon Alexa](https://amazon.science) to find innovative ways to advance the field of Speaker Recognition and Personalization. 
+🧠 I currently head AI Research and Development for Speaker Understanding and Personalization at [Amazon Alexa](https://amazon.science).
 
-⌛️ Previously, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialized in designing AI models for a wide range of applications including Natural Language Processing, Speech Recognition, and Computer Vision. Prior to that, I was one of the early architects of [Apple's M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/), which involved developing models for estimating performance of future Macs years in advance, and driving debugs to narrow down and fix performance bottlenecks. Before Apple, I spent a couple of years at [Nvidia](https://www.nvidia.com) and [Qualcomm](https://www.qualcomm.com) working on GPUs and ML Accelerators.
+⌛️ Previously, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialized in designing AI models for a wide range of applications including Natural Language Processing, Speech Recognition, and Computer Vision. Prior to that, I was one of the early architects of [Apple's M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/), which involved developing models for estimating performance of future Macs years in advance. Before Apple, I spent a couple of years at [Nvidia](https://www.nvidia.com) and [Qualcomm](https://www.qualcomm.com) working on GPUs and ML Accelerators. I am a receipient of the [EB-1](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1) "[Einstein Visa](https://economictimes.indiatimes.com/nri/migrate/do-you-qualify-for-an-einstein-green-card/articleshow/82768200.cms)" (conferred by the US Government for extraordinary ability and acclaim in a specialized field).
 
-🌱 I'm currently pursuing my graduate studies part-time in [Computer Science](https://cs.stanford.edu/) with a specialization in [Artificial Intelligence](http://ai.stanford.edu/) from [Stanford University](https://www.stanford.edu/). 
+🌱 I pursued my graduate studies part-time in [Computer Science](https://cs.stanford.edu/) with a specialization in [Artificial Intelligence](http://ai.stanford.edu/) from [Stanford University](https://www.stanford.edu/). 
 
 🎓 I received my Masters in [Electrical and Computer Engineering](http://www.ece.wisc.edu/) with a specialization in [Computer Architecture](http://rsrch.cs.wisc.edu/arch/uwarch/?q=node/69) from the [University of Wisconsin-Madison](https://www.wisc.edu/) and graduated in 2014 with an outstanding graduate student award.
 
 📚 I am a distinguished alumnus of the [University of Mumbai](https://www.mu.ac.in/), one of the largest universities in the world.
+
+📝 I serve as a Research Fellow at universities around the US and India. 
 
 ### Personal Profile
 
