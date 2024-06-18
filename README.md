@@ -10,7 +10,7 @@
 
 ### Bio
 
-🧠 I currently head a [Generative AI](https://aws.amazon.com/generative-ai/innovation-center/) [R&D](https://press.aboutamazon.com/2023/6/aws-announces-generative-ai-innovation-center) team for [Amazon AWS](https://aws.amazon.com/). Previously, I led AI for [Speaker Understanding and Personalization](https://www.cnet.com/home/smart-home/hidden-alexa-commands-thatll-tailor-your-whole-echo-experience/) at [Amazon Alexa](https://www.amazon.science/tag/alexa).
+🧠 I currently head a [Generative AI](https://aws.amazon.com/generative-ai/innovation-center/) [R&D](https://press.aboutamazon.com/2023/6/aws-announces-generative-ai-innovation-center) team of Scientists and Managers for [Amazon AWS](https://aws.amazon.com/). Previously, I led AI for [Speaker Understanding and Personalization](https://www.cnet.com/home/smart-home/hidden-alexa-commands-thatll-tailor-your-whole-echo-experience/) at [Amazon Alexa](https://www.amazon.science/tag/alexa).
 
 ⌛️ Prior to Amazon, I was part of the [Machine Intelligence Neural Design (MIND)](https://www.apple.com/careers/us/machine-learning-and-ai.html) team at [Apple](https://www.apple.com/), where I specialized in designing AI models for a wide range of applications including Natural Language Processing, Speech Recognition, and Computer Vision. Prior to that, I was one of the early architects of [Apple's M1 chip](https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/), which involved developing models for estimating performance of future Macs years in advance. Before Apple, I spent a couple of years at [Nvidia](https://www.nvidia.com) and [Qualcomm](https://www.qualcomm.com) working on GPUs and ML Accelerators. I am a recipient of the [EB-1](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1) "[Einstein Visa](https://economictimes.indiatimes.com/nri/migrate/do-you-qualify-for-an-einstein-green-card/articleshow/82768200.cms)" (conferred by the US Government for extraordinary ability and acclaim in a specialized field).
 
@@ -20,9 +20,9 @@
 
 📚 I am a distinguished alumnus of the [University of Mumbai](https://www.mu.ac.in/), one of the largest universities in the world.
 
-📝 As a Research Fellow at universities around the US and India, I advise research projects and publish in leading AI venues. 
+📝 As a Research Fellow at universities around the US and India, I advise AI research projects and have published in leading venues such as ACL, EMNLP ([Outstanding Paper Award '23](https://www.linkedin.com/feed/update/urn:li:activity:7139818581160071168/)), AAAI, EACL, ECIR, ECML, WSDM, ICASSP, etc. Our work has been featured in [The Washington Post](https://www.washingtonpost.com/opinions/2023/12/27/artificial-intelligence-hallucinations/), [Wikipedia](https://aman.info/research/Wikipedia_HallucinationPage_Citation.jpeg), [New Scientist](https://www.newscientist.com/article/2434100-would-an-ai-judge-be-able-to-efficiently-dispense-justice/), [Analytics India Magazine](https://analyticsindiamag.com/meet-the-ai-expert-building-indic-llms-with-iits/), [YourStory](https://yourstory.com/2024/01/indic-llms-healthcare-aman-chadha-iits), etc.
 
-🏃🏻‍♂️ Outside of work, I like hiking, gardening, skiing, and staying fit.
+🏃🏻‍♂️ Outside of work, I like hiking, gardening, skiing, and working out.
 
 ### Personal Profile
 
@@ -31,6 +31,10 @@
 ### AI Portfolio
 
 💼 [aman.ai](https://www.aman.ai), which contains course notes and learning material for Artificial Intelligence and Deep Learning Stanford classes.
+
+### AI Community
+
+💼 [neuralnets.ai](https://www.neuralnets.ai), a one-stop shop for AI learning resources.
 
 ### Connect
 
