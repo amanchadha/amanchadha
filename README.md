@@ -26,7 +26,7 @@
 
 ### Personal Profile
 
-🧑🏻‍💻🌎 [aman.info](https://www.aman.info)
+🧑🏻‍💻 [aman.info](https://www.aman.info)
 
 ### AI Portfolio
 
@@ -34,7 +34,7 @@
 
 ### AI Community
 
- [neuralnets.ai](https://www.neuralnets.ai), a one-stop shop for AI learning resources.
+🌎 [neuralnets.ai](https://www.neuralnets.ai), a one-stop shop for AI learning resources.
 
 ### Connect
 
