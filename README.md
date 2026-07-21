@@ -6,7 +6,7 @@
 
 👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an [email](mailto:hi@aman.ai)! 
 
-👉🏼 ***Follow me on [LinkedIn](http://linkedin.aman.ai) or [NeuralNets](https://neuralnets.ai/) to stay updated with my AI primers and papers.***
+👉🏼 **I'm reachable on [LinkedIn](http://linkedin.aman.ai) or [X](http://x.aman.ai) where I also post my AI primers and papers.***
 
 ### Bio
 
